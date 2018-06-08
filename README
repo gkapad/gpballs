@@ -7,3 +7,8 @@ All this packages, was tar-balls, signed with a private 'gpg' key,
 so were private, and hidden, somehow.
 
 And, so, thats their name. gpballs ;)
+
+the try was succes but unusable,
+cause git have to handle with binary files,
+and sometimes huge enough,
+and the sync become very slow, and heavy
